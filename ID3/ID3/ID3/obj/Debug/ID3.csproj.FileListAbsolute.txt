@@ -1,0 +1,7 @@
+F:\Fh\bif4\ML\Decision Tree\ID3\ID3\ID3\bin\Debug\ID3.exe.config
+F:\Fh\bif4\ML\Decision Tree\ID3\ID3\ID3\bin\Debug\ID3.exe
+F:\Fh\bif4\ML\Decision Tree\ID3\ID3\ID3\bin\Debug\ID3.pdb
+F:\Fh\bif4\ML\Decision Tree\ID3\ID3\ID3\obj\Debug\ID3.csproj.CoreCompileInputs.cache
+F:\Fh\bif4\ML\Decision Tree\ID3\ID3\ID3\obj\Debug\ID3.exe
+F:\Fh\bif4\ML\Decision Tree\ID3\ID3\ID3\obj\Debug\ID3.pdb
+F:\Fh\bif4\ML\Decision Tree\ID3\ID3\ID3\obj\Debug\ID3.csprojAssemblyReference.cache
